@@ -7,5 +7,6 @@ class Anagram
   
   def match(array)
     array.select 
+  end
   
 end
